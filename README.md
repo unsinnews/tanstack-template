@@ -1,4 +1,4 @@
-# TanStack Chat Template
+# TanStack Chat Template1
 
 ![TanStack Starter Preview](tanstack-starter-preview.jpg)
 
